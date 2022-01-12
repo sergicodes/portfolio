@@ -97,7 +97,7 @@ button.button:hover {
   align-content: center;
   padding: 13% 5%;
 }
-/* @keyframes gradient {
+@keyframes gradient {
   0% {
     background-position: 0% 50%;
   }
@@ -107,7 +107,7 @@ button.button:hover {
   100% {
     background-position: 0% 50%;
   }
-} */
+} 
 
 .header-text {
   font-family: var(--font);
@@ -178,7 +178,7 @@ button.button:hover {
   height: fit-content;
 }
 
-/* @keyframes gradientText {
+@keyframes gradientText {
   0% {
     background-position: 0% 50%;
   }
@@ -188,7 +188,7 @@ button.button:hover {
   100% {
     background-position: 0% 50%;
   }
-} */
+} 
 
 /* ======ABOUT STYLE====== */
 
@@ -397,7 +397,7 @@ button.button:hover {
 .projects-blur-main-1 {
   height: 350px;
   width: 700px;
-  background-image: url(/images/panah-website.png);
+  background-image: url(https://sergicodes.github.io/portfolio/images/panah-website.png);
   background-size: cover;
   /* background: rgba(255, 255, 255, 0.168);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
@@ -419,7 +419,7 @@ button.button:hover {
 .projects-blur-main-2 {
   height: 350px;
   width: 700px;
-  background-image: url(/images/sergi-website.png);
+  background-image: url(https://sergicodes.github.io/portfolio/images/sergi-website.png);
   background-size: cover;
   border-radius: 20px;
   border: 1px solid rgba(255, 255, 255, 0.18);
